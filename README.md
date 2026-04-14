@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Pedro! 👋
 
-<!--
-**Pedro-Bonavita/Pedro-Bonavita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Data Analyst & UX Enthusiast
+I'm a University student focused on **Human-Computer Interaction (HCI)** and **User Experience**, currently building a career in Data Analysis. 
 
-Here are some ideas to get you started:
+- 📊 **Current Focus:** Advanced Python, ETL pipelines, and Business Intelligence.
+- 🛡️ **Interests:** Digital Privacy, Security-by-Design, and Data Visualization.
+- 🌍 **Goal:** Working with international data projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+*“Connecting data insights with user-centered design.”*## Hi there 👋
+
+

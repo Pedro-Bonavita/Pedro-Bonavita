@@ -1,10 +1,11 @@
 # Hi, I'm Pedro! 👋
 
-### 👨‍💻 Data Analyst & UX Enthusiast
-I'm a University student focused on **Human-Computer Interaction (HCI)** and **User Experience**, currently building a career in Data Analysis. 
+### 👨‍💻 Data Engineering Student | UX & Branding Background | AgTech & AudioTech Enthusiast
+I'm a University student currently pivoting into **Data Engineering**. I combine logical rigor and user-centric design to build robust, scalable, and secure data pipelines. 
 
-- 📊 **Current Focus:** Advanced Python, ETL pipelines, and Business Intelligence.
-- 🛡️ **Interests:** Digital Privacy, Security-by-Design, and Data Visualization.
+- 📊 **Current Focus:** Advanced Python, SQL, ETL pipelines, and Data Infraestructure.
+- 🐧 **Environment:** Powering my workflows with **Debian Trixie** and Windows 10 Pro.
+- 🛡️ **Interests:** Agriculture Technology, Audio Pattern Analysis, Data Governance, Digital Privacy, Security-by-Design.
 - 🌍 **Goal:** Working with international data projects.
 
 ### 🛠️ Tech Stack
